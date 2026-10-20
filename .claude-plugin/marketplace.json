@@ -1,0 +1,34 @@
+{
+  "name": "xiaolai",
+  "owner": {
+    "name": "xiaolai"
+  },
+  "metadata": {
+    "description": "English language coach for non-native speakers"
+  },
+  "plugins": [
+    {
+      "name": "english-buddy",
+      "source": {
+        "source": "github",
+        "repo": "xiaolai/english-buddy-for-claude"
+      },
+      "description": "English language coach for non-native speakers — auto-corrects prompts, translates non-English, refines with :: prefix, tracks improvement over time",
+      "version": "0.8.0",
+      "author": {
+        "name": "xiaolai"
+      },
+      "repository": "https://github.com/xiaolai/english-buddy-for-claude",
+      "license": "ISC",
+      "keywords": [
+        "english",
+        "language",
+        "coaching",
+        "grammar",
+        "translation",
+        "non-native"
+      ],
+      "category": "developer-tools"
+    }
+  ]
+}

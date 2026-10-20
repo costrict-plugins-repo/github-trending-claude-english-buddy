@@ -1,0 +1,21 @@
+{
+  "name": "english-buddy",
+  "version": "0.8.0",
+  "description": "English language coach for non-native speakers \u2014 auto-corrects prompts, translates non-English, refines with :: prefix, tracks improvement over time",
+  "author": {
+    "name": "xiaolai"
+  },
+  "keywords": [
+    "english",
+    "language",
+    "coaching",
+    "grammar",
+    "translation",
+    "non-native"
+  ],
+  "license": "ISC",
+  "repository": "https://github.com/xiaolai/english-buddy-for-claude",
+  "skills": [
+    "./skills/english-buddy"
+  ]
+}
